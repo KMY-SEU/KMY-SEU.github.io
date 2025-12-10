@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: #d3d3d3;
+            min-height: 100vh;
+            padding: 40px 0;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: #4a4a4a;
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header .subtitle {
+            font-size: 1.3em;
+            opacity: 0.95;
+            margin-bottom: 20px;
+        }
+
+        .header .contact {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 60px 80px;
+            width: 100%;
+        }
+
+        .content h2 {
+            color: #2c3e50;
+            font-size: 2em;
+            margin: 40px 0 20px 0;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #34495e;
+        }
+
+        .content h2:first-child {
+            margin-top: 0;
+        }
+
+        .content h3 {
+            color: #34495e;
+            font-size: 1.5em;
+            margin: 30px 0 15px 0;
+        }
+
+        .content p {
+            margin: 15px 0;
+            text-align: justify;
+        }
+
+        .content ul, .content ol {
+            margin: 20px 0;
+            padding-left: 30px;
+        }
+
+        .content li {
+            margin: 10px 0;
+        }
+
+        .content a {
+            color: #2c3e50;
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: all 0.3s;
+        }
+
+        .content a:hover {
+            border-bottom-color: #2c3e50;
+        }
+
+        .content blockquote {
+            border-left: 4px solid #34495e;
+            padding-left: 20px;
+            margin: 20px 0;
+            color: #666;
+            font-style: italic;
+        }
+
+        .content code {
+            background: #f5f5f5;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+
+        .content pre {
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+
+        .content pre code {
+            background: none;
+            padding: 0;
+        }
+
+        .content table {
+            border-collapse: collapse;
+            margin: 20px 0;
+            width: auto;
+        }
+
+        .content table td {
+            border: none;
+            padding: 8px 32px 8px 0;
+            vertical-align: top;
+        }
+
+        .content table td:first-child {
+            white-space: nowrap;
+            padding-right: 65px;
+        }
+
+        .content table td:nth-child(3) {
+            white-space: nowrap;
+            padding-right: 65px;
+        }
+
+        /* Education 表格特殊样式 */
+        .content table.education-table td {
+            padding: 8px 65px 8px 0;
+        }
+
+        .content table.education-table td:first-child {
+            padding-right: 130px;
+        }
+
+        .content table.education-table td:nth-child(3) {
+            padding-right: 130px;
+        }
+
+        .section {
+            margin: 40px 0;
+        }
+
+        .footer {
+            background: #f8f9fa;
+            padding: 30px 40px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #e9ecef;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 0 20px;
+            }
+            
+            .header {
+                padding: 40px 20px;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .content {
+                padding: 40px 30px;
+            }
+            
+            .content h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Mingyu Kang（康明与）</h1>
+            <div class="subtitle">kangmingyu@ustc.edu.cn</div>
+            <div class="contact">Research Fellow（Postdoc）|  University of Science and Technology of China </div>
+        </div>
+        
+        <div class="content" id="markdown-content"></div>
+        
+        <div class="footer">
+            <p>&copy; 2025 Mingyu Kang. All Rights Reserved.</p>
+            <p>Latest Update：Dec 2025</p>
+        </div>
+    </div>
+
+    <script>
+        // 从 README.md 文件加载内容
+        async function loadMarkdownContent() {
+            try {
+                // 添加时间戳参数防止缓存
+                const response = await fetch('README.md?t=' + new Date().getTime());
+                if (!response.ok) {
+                    throw new Error('无法加载 README.md 文件');
+                }
+                const markdownText = await response.text();
+                
+                // 移除第一个标题 "# Profile"（如果存在）
+                let contentWithoutTitle = markdownText.replace(/^#\s+Profile\s*\n+/, '');
+                
+                // 先渲染 Markdown
+                let htmlContent = marked.parse(contentWithoutTitle);
+                
+                // 处理 Biography 部分，添加照片布局
+                htmlContent = htmlContent.replace(
+                    /(<h2[^>]*>Biography<\/h2>)([\s\S]*?)(<h2|$)/,
+                    (match, header, content, nextSection) => {
+                        const bioContent = content.trim();
+                        return header + 
+                            '<div style="display: flex; align-items: flex-start; gap: 30px; margin: 30px 0;">' +
+                            '<div style="flex-shrink: 0;">' +
+                            '<img src="kmy.png" alt="Profile Photo" style="width: 200px; height: 200px; object-fit: cover; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">' +
+                            '</div>' +
+                            '<div style="flex: 1; line-height: 1.2; margin-top: -10px;">' +
+                            bioContent +
+                            '</div>' +
+                            '</div>\n' +
+                            nextSection;
+                    }
+                );
+                
+                // 将处理后的 HTML 插入页面
+                document.getElementById('markdown-content').innerHTML = htmlContent;
+                
+                // 为 Education 表格添加特殊 class
+                addEducationTableClass();
+                
+                // 处理 Latest News 的展开/收起功能
+                handleNewsSection();
+            } catch (error) {
+                console.error('加载 Markdown 内容时出错:', error);
+                document.getElementById('markdown-content').innerHTML = 
+                    '<p style="color: red;">加载内容失败，请确保 README.md 文件存在。</p>';
+            }
+        }
+
+        // 处理 Latest News 部分的展开/收起
+        function handleNewsSection() {
+            const content = document.getElementById('markdown-content');
+            const newsSection = Array.from(content.querySelectorAll('h2')).find(h2 => h2.textContent.includes('Latest News'));
+            
+            if (!newsSection) return;
+            
+            // 收集新闻条目（可能是列表或段落）
+            let newsItems = [];
+            let currentElement = newsSection.nextElementSibling;
+            
+            while (currentElement && currentElement.tagName !== 'H2') {
+                if (currentElement.tagName === 'UL') {
+                    newsItems = Array.from(currentElement.querySelectorAll('li'));
+                    break;
+                } else if (currentElement.tagName === 'P' && currentElement.textContent.trim()) {
+                    newsItems.push(currentElement);
+                }
+                currentElement = currentElement.nextElementSibling;
+            }
+            
+            const maxVisible = 5;
+            
+            if (newsItems.length <= maxVisible) return;
+            
+            // 隐藏超过5条的新闻
+            newsItems.forEach((item, index) => {
+                if (index >= maxVisible) {
+                    item.style.display = 'none';
+                    item.classList.add('news-hidden');
+                }
+            });
+            
+            // 创建展开/收起链接
+            const toggleBtn = document.createElement('div');
+            toggleBtn.style.cssText = 'margin: 10px 0;';
+            toggleBtn.innerHTML = '<span id="news-toggle-btn" style="color: #2c3e50; cursor: pointer; text-decoration: underline; font-size: 1em;">Show More ▼</span>';
+            
+            // 在最后一个新闻条目后插入按钮
+            const lastNewsItem = newsItems[newsItems.length - 1];
+            lastNewsItem.parentNode.insertBefore(toggleBtn, lastNewsItem.nextSibling);
+            
+            // 绑定点击事件
+            let isExpanded = false;
+            document.getElementById('news-toggle-btn').addEventListener('click', function() {
+                isExpanded = !isExpanded;
+                newsItems.forEach((item, index) => {
+                    if (index >= maxVisible) {
+                        // 根据元素类型设置正确的 display 值
+                        const displayValue = item.tagName === 'LI' ? 'list-item' : 'block';
+                        item.style.display = isExpanded ? displayValue : 'none';
+                    }
+                });
+                this.textContent = isExpanded ? 'Show Less ▲' : 'Show More ▼';
+            });
+        }
+
+        // 为 Education 部分的表格添加 class
+        function addEducationTableClass() {
+            const content = document.getElementById('markdown-content');
+            const headers = content.querySelectorAll('h2');
+            
+            headers.forEach(h2 => {
+                if (h2.textContent.includes('Education')) {
+                    let nextElement = h2.nextElementSibling;
+                    while (nextElement && nextElement.tagName !== 'H2') {
+                        if (nextElement.tagName === 'TABLE') {
+                            nextElement.classList.add('education-table');
+                            break;
+                        }
+                        nextElement = nextElement.nextElementSibling;
+                    }
+                }
+            });
+        }
+
+        // 页面加载完成后执行
+        loadMarkdownContent();
+    </script>
+</body>
+</html>
