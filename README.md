@@ -50,9 +50,9 @@
 
 |           |                            |          |         |
 | -------------- | ------------------- | -----------|-------------------- |
-| 2021.3 – 2025.6 | 东南大学（Southeast University） |  Nanjing, Jiangsu  |   博士                |
-| 2018.9 – 2021.3 | 东南大学（Southeast University） |  Nanjing, Jiangsu  |   硕士 |
-| 2013.9 – 2017.6 | 南京邮电大学通达学院（Tongda College of NJUPT）|  Yangzhou, Jiangsu    |   学士 |
+| 2021.3 – 2025.6 | 东南大学（Southeast University） |  Nanjing, Jiangsu  |   Ph.D.                |
+| 2018.9 – 2021.3 | 东南大学（Southeast University） |  Nanjing, Jiangsu  |   M.Eng. |
+| 2013.9 – 2017.6 | 南京邮电大学通达学院（Tongda College of NJUPT）|  Yangzhou, Jiangsu    |   B.Eng. |
 
 
 ## Visiting Scholar Experience
