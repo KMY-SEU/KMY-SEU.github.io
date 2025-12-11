@@ -166,6 +166,19 @@
             padding-right: 130px;
         }
 
+        /* Visiting Scholar Experience 表格特殊样式 */
+        .content table.visiting-table td {
+            padding: 8px 40px 8px 0;
+        }
+
+        .content table.visiting-table td:first-child {
+            padding-right: 80px;
+        }
+
+        .content table.visiting-table td:nth-child(2) {
+            padding-right: 80px;
+        }
+
         .section {
             margin: 40px 0;
         }
@@ -324,7 +337,7 @@
             });
         }
 
-        // 为 Education 部分的表格添加 class
+        // 为 Education 和 Visiting Scholar Experience 部分的表格添加 class
         function addEducationTableClass() {
             const content = document.getElementById('markdown-content');
             const headers = content.querySelectorAll('h2');
@@ -335,6 +348,16 @@
                     while (nextElement && nextElement.tagName !== 'H2') {
                         if (nextElement.tagName === 'TABLE') {
                             nextElement.classList.add('education-table');
+                            break;
+                        }
+                        nextElement = nextElement.nextElementSibling;
+                    }
+                }
+                if (h2.textContent.includes('Visiting Scholar Experience')) {
+                    let nextElement = h2.nextElementSibling;
+                    while (nextElement && nextElement.tagName !== 'H2') {
+                        if (nextElement.tagName === 'TABLE') {
+                            nextElement.classList.add('visiting-table');
                             break;
                         }
                         nextElement = nextElement.nextElementSibling;

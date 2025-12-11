@@ -1,7 +1,7 @@
 # Profile
 
 ## Biography
-**Headline:** I have obtained my Ph.D. degree from Southeast University, under the supervision of <u>Prof. Wenwu Yu</u>. Now, I am a postdoctoral researcher working with <u>Prof. Linyuan Lü</u> at the University of Science and Technology of China. 
+**Headline:** I have obtained my Ph.D. degree from Southeast University, under the supervision of <u>**Prof. Wenwu Yu**</u>. Now, I am a postdoctoral researcher working with <u>**Prof. Linyuan Lü**</u> at the University of Science and Technology of China. 
 
 **Ph.D. thesis:** [复杂系统场景数据生成理论与技术.pdf](thesis.pdf)
 
@@ -55,9 +55,20 @@
 | 2013.9 – 2017.6 | 南京邮电大学通达学院（Tongda College of NJUPT）|  Yangzhou, Jiangsu    |   学士 |
 
 
+## Visiting Scholar Experience
+
+|           |                            |          |  
+| -------------- | ------------------- | -----------|
+| 2025.3.20 – 2025.3.23 | Prof. Qiwei Yao |  The London School of Economics and Political Science（LSE）& Peking University |
+| 2023.3.1 – 2024.3.1 | Prof. Jianxi Gao |  Rensselaer Polytechnic Institute（RPI）  |
+
+
+
 ## Related Links
 
 + **Prof. Wenwu Yu**: [Profile](https://math.seu.edu.cn/yww/list.htm), [Google Scholar](https://scholar.google.com/citations?user=I7XxngUAAAAJ&hl=zh-CN&oi=ao)
++ **Prof. Jianxi Gao**: [Profile](https://faculty.rpi.edu/jianxi-gao), [Google Scholar](https://scholar.google.com/citations?user=qMcWVWgAAAAJ&hl=zh-CN&oi=ao)
++ **Prof. Qiwei Yao**: [Profile](https://stats.lse.ac.uk/q.yao/), [Google Scholar](https://scholar.google.com/citations?user=6otVU08AAAAJ&hl=zh-CN&oi=ao)
 + **Prof. Linyuan Lü**: [Profile](https://faculty.ustc.edu.cn/lvlinyuan/en/index.htm), [Google Scholar](https://scholar.google.com/citations?user=KFt5oWsAAAAJ&hl=zh-CN)
 + **Linyuan Lab**: [Homepage](https://linyuanlab.com/)
 
