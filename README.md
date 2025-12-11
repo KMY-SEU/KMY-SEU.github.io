@@ -13,7 +13,7 @@
 
 ## Latest News
 
-📌 [Jun. 2025] I have officially joined the USTC and will work with Prof. Linyuan Lü to support the academic development of [<u>Linyuan Lab<\u>](https://linyuanlab.com/).
+📌 [Jun. 2025] I have officially joined the USTC and will work with Prof. Linyuan Lü to support the academic development of [<u>Linyuan Lab</u>](https://linyuanlab.com/).
 
 
 ## Selected Publications 
