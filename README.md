@@ -3,11 +3,11 @@
 ## Biography
 **Headline:** I have obtained my Ph.D. degree from Southeast University, under the supervision of <u>**Prof. Wenwu Yu**</u>. Now, I am a postdoctoral researcher working with <u>**Prof. Linyuan Lü**</u> at the University of Science and Technology of China. 
 
-**Ph.D. thesis:** [复杂系统场景数据生成理论与技术.pdf](thesis.pdf)
+**Ph.D. thesis:** [<u>复杂系统场景数据生成理论与技术.pdf</u>](thesis.pdf)
 
-**Google Scholar:** [External Link](https://scholar.google.com/citations?user=2CGxd5sAAAAJ&hl=zh-CN)
+**Google Scholar:** [<u>External Link</u>](https://scholar.google.com/citations?user=2CGxd5sAAAAJ&hl=zh-CN)
 
-**Github:** [External Link](https://github.com/KMY-SEU)
+**Github:** [<u>External Link</u>](https://github.com/KMY-SEU)
 
 **Research Interest:** Artificial intelligence and safety, and the orther cutting-edge exploration.
 
