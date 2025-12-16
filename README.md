@@ -1,7 +1,7 @@
 # Profile
 
 ## Biography
-**Headline:** I have obtained my Ph.D. degree from Southeast University, under the supervision of [<u>**Prof. Wenwu Yu**</u>](https://math.seu.edu.cn/yww/list.htm). Now, I am a postdoctoral researcher working with [<u>**Prof. Linyuan Lü**</u>](https://faculty.ustc.edu.cn/lvlinyuan/en/index.htm) at the University of Science and Technology of China. 
+**Headline:** I have obtained my Ph.D. degree from Southeast University, under the supervision of [<u>**Prof. Wenwu Yu**</u>](https://math.seu.edu.cn/yww/list.htm) and [<u>**Prof. Duxin Chen**</u>](https://math.seu.edu.cn/cdx/list.htm). Now, I am a postdoctoral researcher working with [<u>**Prof. Linyuan Lü**</u>](https://faculty.ustc.edu.cn/lvlinyuan/en/index.htm) at the University of Science and Technology of China. 
 
 **Ph.D. thesis:** [<u>复杂系统场景数据生成理论与技术.pdf</u>](thesis.pdf)
 
@@ -59,16 +59,9 @@
 
 |           |                            |          |  
 | -------------- | ------------------- | -----------|
-| 2025.3.20 – 2025.3.23 | Prof. Qiwei Yao |  The London School of Economics and Political Science（LSE）& Peking University |
-| 2023.3.1 – 2024.3.1 | Prof. Jianxi Gao |  Rensselaer Polytechnic Institute（RPI）  |
+| 2025.3.20 – 2025.3.23 | [<u>Prof. Qiwei Yao</u>](https://stats.lse.ac.uk/q.yao/) |  The London School of Economics and Political Science（LSE）& Peking University |
+| 2023.3.1 – 2024.3.1 | [<u>Prof. Jianxi Gao</u>](https://faculty.rpi.edu/jianxi-gao) |  Rensselaer Polytechnic Institute（RPI）  |
 
 
 
-## Related Links
-
-+ **Prof. Wenwu Yu**: [<u>Profile</u>](https://math.seu.edu.cn/yww/list.htm), [<u>Google Scholar</u>](https://scholar.google.com/citations?user=I7XxngUAAAAJ&hl=zh-CN&oi=ao)
-+ **Prof. Jianxi Gao**: [<u>Profile</u>](https://faculty.rpi.edu/jianxi-gao), [<u>Google Scholar</u>](https://scholar.google.com/citations?user=qMcWVWgAAAAJ&hl=zh-CN&oi=ao)
-+ **Prof. Qiwei Yao**: [<u>Profile</u>](https://stats.lse.ac.uk/q.yao/), [<u>Google Scholar</u>](https://scholar.google.com/citations?user=6otVU08AAAAJ&hl=zh-CN&oi=ao)
-+ **Prof. Linyuan Lü**: [<u>Profile</u>](https://faculty.ustc.edu.cn/lvlinyuan/en/index.htm), [<u>Google Scholar</u>](https://scholar.google.com/citations?user=KFt5oWsAAAAJ&hl=zh-CN)
-+ **Linyuan Lab**: [<u>Homepage</u>](https://linyuanlab.com/)
 
