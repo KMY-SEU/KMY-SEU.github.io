@@ -9,7 +9,7 @@
 
 **Github:** [<u>External Link</u>](https://github.com/KMY-SEU)
 
-**Research Interest:** Artificial intelligence and safety, and the orther cutting-edge exploration.
+**Research Interest:** Artificial intelligence and safety, and the other cutting-edge exploration.
 
 ## Latest News
 
@@ -18,7 +18,7 @@
 
 ## Selected Publications 
 
-[1] **M. Kang**, D. Chen, Z. Pu, J. Gao, W. Yu. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, 2025, [Online] Available: [https://arxiv.org/abs/2407.01875](https://arxiv.org/abs/2407.01875).
+[1] **M. Kang**, D. Chen, Z. Pu, J. Gao, W. Yu. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
 [2] Y. Xu†, **M. Kang**†, D. Chen, C. Wu, X. Wang, R. Tu, W. Yu. "Flight departure optimization reduces airport CO₂ emissions proved by Beijing-Tianjin-Hebei multiple-airport-region." *Transportation Research Part D: Transport and Environment*, vol. 147, p. 104920, 2025. 
 
