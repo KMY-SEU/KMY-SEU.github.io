@@ -33,7 +33,7 @@
 
 **2024:**
 
-[1] **M. Kang**, D. Chen, N. Meng, G. Yan, W. Yu. "Identifying unique spatial-temporal Bayesian network without Markov equivalence." *IEEE Transactions on Artificial Intelligence*, 2024. [Online] Available: [https://ieeexplore.ieee.org/document/10723109](https://ieeexplore.ieee.org/document/10723109).
+[1] **M. Kang**, D. Chen, N. Meng, G. Yan, W. Yu. "Identifying unique spatial-temporal Bayesian network without Markov equivalence." *IEEE Transactions on Artificial Intelligence*, 2024. [Online] Available at: [https://ieeexplore.ieee.org/document/10723109](https://ieeexplore.ieee.org/document/10723109).
 
 [2] Y. He, **M. Kang**, D. Chen, W. Yu. "NHCE: A neural high-order causal entropy algorithm for disentangling coupling dynamics." *IEEE Transactions on Network Science and Engineering*, vol. 11, no. 6, pp. 5930-5942, 2024.
 
