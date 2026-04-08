@@ -229,12 +229,57 @@
         
         <div class="footer">
             <p>&copy; 2026 Mingyu Kang. All Rights Reserved.</p>
-            <p>Latest Update：Mar 2026</p>
+            <p>Latest Update：<span id="latest-update">Loading...</span></p>
         </div>
     </div>
     
 
     <script>
+        function formatLastUpdatedTime(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            const hours = String(date.getHours()).padStart(2, '0');
+            const minutes = String(date.getMinutes()).padStart(2, '0');
+
+            return `${year}-${month}-${day} ${hours}:${minutes}`;
+        }
+
+        function setLatestUpdate(dateString) {
+            const latestUpdateElement = document.getElementById('latest-update');
+
+            if (!latestUpdateElement) {
+                return;
+            }
+
+            const parsedDate = new Date(dateString);
+
+            if (Number.isNaN(parsedDate.getTime())) {
+                latestUpdateElement.textContent = 'Unavailable';
+                return;
+            }
+
+            latestUpdateElement.textContent = formatLastUpdatedTime(parsedDate);
+        }
+
+        async function loadLatestUpdateTime() {
+            try {
+                const response = await fetch('README.md?t=' + new Date().getTime(), {
+                    cache: 'no-store'
+                });
+                const lastModified = response.headers.get('Last-Modified');
+
+                if (lastModified) {
+                    setLatestUpdate(lastModified);
+                    return;
+                }
+            } catch (error) {
+                console.warn('读取本地更新时间失败，改为使用页面更新时间:', error);
+            }
+
+            setLatestUpdate(document.lastModified);
+        }
+
         // 从 README.md 文件加载内容
         async function loadMarkdownContent() {
             try {
@@ -371,6 +416,7 @@
         }
 
         // 页面加载完成后执行
+        loadLatestUpdateTime();
         loadMarkdownContent();
     </script>
 </body>
