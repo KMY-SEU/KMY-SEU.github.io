@@ -22,7 +22,7 @@
 
 [1] **M. Kang**, D. Chen, Z. Pu, J. Gao, W. Yu. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
-[2] N. Chen, **M. Kang**\*, J. Li, L. Lü. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *Findings of The ACL*, 2026.
+[2] N. Chen, **M. Kang**\*, J. Li, L. Lü. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *Findings of The ACL*, 2026, accepted.
 
 
 **2025:**
