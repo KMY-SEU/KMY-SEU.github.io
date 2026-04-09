@@ -20,28 +20,28 @@
 
 **2026:**
 
-[1] **M. Kang**, D. Chen, Z. Pu, J. Gao, W. Yu. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
+[1] **M. Kang**, D. Chen\*, Z. Pu, J. Gao, W. Yu\*. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
-[2] N. Chen, **M. Kang**\*, J. Li, L. Lü. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *Findings of The ACL*, 2026, accepted.
+[2] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *Findings of The ACL*, 2026, accepted.
 
 
 **2025:**
 
-[1] Y. Xu†, **M. Kang**†, D. Chen, C. Wu, X. Wang, R. Tu, W. Yu. "Flight departure optimization reduces airport CO₂ emissions proved by Beijing-Tianjin-Hebei multiple-airport-region." *Transportation Research Part D: Transport and Environment*, vol. 147, p. 104920, 2025. 
+[1] Y. Xu†, **M. Kang**†, D. Chen, C. Wu, X. Wang, R. Tu\*, W. Yu\*. "Flight departure optimization reduces airport CO₂ emissions proved by Beijing-Tianjin-Hebei multiple-airport-region." *Transportation Research Part D: Transport and Environment*, vol. 147, p. 104920, 2025. 
 
-[2] H. Yi, Y. He, D. Chen, **M. Kang**, H. Wang, W. Yu. "The robustness of differentiable causal discovery in misspecified scenarios." in *ICLR*, 2025.
+[2] H. Yi, Y. He, D. Chen\*, **M. Kang**, H. Wang, W. Yu\*. "The robustness of differentiable causal discovery in misspecified scenarios." in *ICLR*, 2025.
 
 **2024:**
 
-[1] **M. Kang**, D. Chen, N. Meng, G. Yan, W. Yu. "Identifying unique spatial-temporal Bayesian network without Markov equivalence." *IEEE Transactions on Artificial Intelligence*, 2024. [Online] Available at: [https://ieeexplore.ieee.org/document/10723109](https://ieeexplore.ieee.org/document/10723109).
+[1] **M. Kang**, D. Chen\*, N. Meng, G. Yan, W. Yu\*. "Identifying unique spatial-temporal Bayesian network without Markov equivalence." *IEEE Transactions on Artificial Intelligence*, 2024. [Online] Available at: [https://ieeexplore.ieee.org/document/10723109](https://ieeexplore.ieee.org/document/10723109).
 
-[2] Y. He, **M. Kang**, D. Chen, W. Yu. "NHCE: A neural high-order causal entropy algorithm for disentangling coupling dynamics." *IEEE Transactions on Network Science and Engineering*, vol. 11, no. 6, pp. 5930-5942, 2024.
+[2] Y. He, **M. Kang**, D. Chen\*, W. Yu\*. "NHCE: A neural high-order causal entropy algorithm for disentangling coupling dynamics." *IEEE Transactions on Network Science and Engineering*, vol. 11, no. 6, pp. 5930-5942, 2024.
 
 **2023:**
 
-[1] **M. Kang**, R. Zhu, D. Chen, C. Li, W. Gu, X. Qian, W. Yu. "A cross-modal generative adversarial network for scenarios generation of renewable energy." *IEEE Transactions on Power Systems*, vol. 39, no. 2, pp. 2630-2640, 2023.
+[1] **M. Kang**, R. Zhu, D. Chen\*, C. Li, W. Gu, X. Qian, W. Yu\*. "A cross-modal generative adversarial network for scenarios generation of renewable energy." *IEEE Transactions on Power Systems*, vol. 39, no. 2, pp. 2630-2640, 2023.
 
-[2] **M. Kang**, R. Zhu, D. Chen, X. Liu, W. Yu. "CM-GAN: A cross-modal generative adversarial network for imputing completely missing data in digital industry." *IEEE Transactions on Neural Networks and Learning Systems*, vol. 35, no. 3, pp. 2917-2926, 2023.
+[2] **M. Kang**, R. Zhu, D. Chen\*, X. Liu, W. Yu\*. "CM-GAN: A cross-modal generative adversarial network for imputing completely missing data in digital industry." *IEEE Transactions on Neural Networks and Learning Systems*, vol. 35, no. 3, pp. 2917-2926, 2023.
 
 
 <div style="border-top: 1px solid #999; width: fit-content; padding-top: 8px; margin-top: 20px;">† is co-first author, * is corresponding author</div>
