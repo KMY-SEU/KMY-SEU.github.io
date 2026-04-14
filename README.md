@@ -24,6 +24,8 @@
 
 [2] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *Findings of The ACL*, 2026, accepted.
 
+[3] **M. Kang**, J. Gao, W. Yu, L. Lü\*. "ASIND: Alternating sparse identification for predicting network dynamics without knowledge." in *IFAC World Congress*, 2026, accepted.
+
 
 **2025:**
 
