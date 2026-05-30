@@ -33,7 +33,7 @@
 
 [2] H. Yi, Y. He, D. Chen\*, **M. Kang**, H. Wang, W. Yu\*. "The robustness of differentiable causal discovery in misspecified scenarios." in *ICLR*, 2025.
 
-[3] R. Zhu, H. Liu, **M. Kang**, Wenwu Yu*, Jin Zhao*. "Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads." *IEEE Transactions on Smart Grid*, vol. 16, no. 5, pp. 3533-3547, 2025.
+[3] R. Zhu, H. Liu, **M. Kang**, W. Yu*, J. Zhao*. "Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads." *IEEE Transactions on Smart Grid*, vol. 16, no. 5, pp. 3533-3547, 2025.
 
 **2024:**
 
