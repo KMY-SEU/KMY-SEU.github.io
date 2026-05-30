@@ -22,9 +22,9 @@
 
 [1] **M. Kang**, D. Chen\*, Z. Pu, J. Gao, W. Yu\*. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
-[2] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *Findings of The ACL*, 2026, accepted.
+[2] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *ACL Findings*, 2026, accepted. [Online] Available at: [https://openreview.net/forum?id=GlvSQFLC83#discussion](https://openreview.net/forum?id=GlvSQFLC83#discussion).
 
-[3] **M. Kang**, J. Gao, W. Yu, L. Lü\*. "ASIND: Alternating sparse identification for predicting network dynamics without knowledge." in *IFAC World Congress*, 2026, accepted.
+[3] **M. Kang**, J. Gao, W. Yu, L. Lü\*. "ASIND: Alternating sparse identification for predicting network dynamics without knowledge." in *IFAC World Congress*, 2026, accepted. [Online] Available at: [https://arxiv.org/abs/2605.21220](https://arxiv.org/abs/2605.21220).
 
 
 **2025:**
@@ -32,6 +32,8 @@
 [1] Y. Xu†, **M. Kang**†, D. Chen, C. Wu, X. Wang, R. Tu\*, W. Yu\*. "Flight departure optimization reduces airport CO₂ emissions proved by Beijing-Tianjin-Hebei multiple-airport-region." *Transportation Research Part D: Transport and Environment*, vol. 147, p. 104920, 2025. 
 
 [2] H. Yi, Y. He, D. Chen\*, **M. Kang**, H. Wang, W. Yu\*. "The robustness of differentiable causal discovery in misspecified scenarios." in *ICLR*, 2025.
+
+[3] R. Zhu, H. Liu, **M. Kang**, Wenwu Yu*, Jin Zhao*. "Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads." *IEEE Transactions on Smart Grid*, vol. 16, no. 5, pp. 3533-3547, 2025.
 
 **2024:**
 
