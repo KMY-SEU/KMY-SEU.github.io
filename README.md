@@ -22,7 +22,7 @@
 
 [1] **M. Kang**, D. Chen\*, Z. Pu, J. Gao, W. Yu\*. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
-[2] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *ACL Findings*, 2026, accepted. [Online] Available at: [https://openreview.net/forum?id=GlvSQFLC83#discussion](https://openreview.net/forum?id=GlvSQFLC83#discussion).
+[2] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *ACL Findings*, 2026, accepted. [Online] Available at: [https://openreview.net/forum?id=qdt7AQ6YBP](https://openreview.net/forum?id=qdt7AQ6YBP).
 
 [3] **M. Kang**, J. Gao, W. Yu, L. Lü\*. "ASIND: Alternating sparse identification for predicting network dynamics without knowledge." in *IFAC World Congress*, 2026, accepted. [Online] Available at: [https://arxiv.org/abs/2605.21220](https://arxiv.org/abs/2605.21220).
 
