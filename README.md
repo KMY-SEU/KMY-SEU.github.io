@@ -12,10 +12,9 @@
 **Research Interest:** Artificial intelligence and safety, and the other cutting-edge exploration.
 
 ## Latest News
+📌 [Jun. 2026] 获得2026年第79批博士后面上基金，资助金额8万元，[<u>拟资助人员名单公示</u>](https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf)。
 
 📌 [Jun. 2025] I have officially joined the USTC and will work with Prof. Linyuan Lü to support the academic development of [<u>Linyuan Lab</u>](https://linyuanlab.com/).
-
-📌 [Jun. 2026] 获得2026年第79批博士后面上基金，资助金额8万元，[<u>拟资助人员名单公示</u>](https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf)。
 
 
 ## Selected Publications 
