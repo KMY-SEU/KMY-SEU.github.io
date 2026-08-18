@@ -27,7 +27,9 @@
 
 [3] **M. Kang**, J. Gao, W. Yu, L. Lü\*. "ASIND: Alternating sparse identification for predicting network dynamics without knowledge." in *IFAC World Congress*, 2026, accepted. [Online] Available at: [https://arxiv.org/abs/2605.21220](https://arxiv.org/abs/2605.21220).
 
-[4] S. Jiang, **M. Kang**, X. Xu\*, J. Xiao, L. Lü\*. "A multi-scale evolutionary framework for fuzzy hypergraph community detection." *IEEE Transactions on Fuzzy Systems*, [Online] Available at: [https://ieeexplore.ieee.org/document/11576602](https://ieeexplore.ieee.org/document/11576602).
+[4] S. Jiang, **M. Kang**, X. Xu\*, J. Xiao, L. Lü\*. "A multi-scale evolutionary framework for fuzzy hypergraph community detection." *IEEE Transactions on Fuzzy Systems*, 2026. [Online] Available at: [https://ieeexplore.ieee.org/document/11576602](https://ieeexplore.ieee.org/document/11576602).
+
+[5] W. Shi, **M. Kang**\*, Y. Zhou, L. Lü\*. "An LLM-driven Multi-agent Social Simulation Model for Disinformation Propagation Dynamics." *IEEE Transactions on Computational Social Systems*, 2026, accepted.
 
 
 **2025:**
