@@ -12,7 +12,7 @@
 **Research Interest:** Artificial intelligence and safety, and the other cutting-edge exploration.
 
 ## Latest News
-📌 [Jun. 2026] 获得2026年第79批博士后面上基金，资助金额8万元：[<u>拟资助人员名单公示</u>](https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf)。
+📌 [Jun. 2026] 获批2026年第79批博士后面上基金：[<u>拟资助人员名单公示</u>](https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf)。
 
 📌 [Jun. 2025] I have officially joined the USTC and will work with Prof. Linyuan Lü to support the academic development of [<u>Linyuan Lab</u>](https://linyuanlab.com/).
 
@@ -29,7 +29,7 @@
 
 [4] S. Jiang, **M. Kang**, X. Xu\*, J. Xiao, L. Lü\*. "A multi-scale evolutionary framework for fuzzy hypergraph community detection." *IEEE Transactions on Fuzzy Systems*, 2026. [Online] Available at: [https://ieeexplore.ieee.org/document/11576602](https://ieeexplore.ieee.org/document/11576602).
 
-[5] W. Shi, **M. Kang**\*, Y. Zhou, L. Lü\*. "An LLM-driven Multi-agent Social Simulation Model for Disinformation Propagation Dynamics." *IEEE Transactions on Computational Social Systems*, 2026, accepted.
+[5] W. Shi, **M. Kang**\*, Y. Zhou, L. Lü\*. "An LLM-driven multi-agent social simulation model for disinformation propagation dynamics." *IEEE Transactions on Computational Social Systems*, 2026, accepted, DOI: 10.1109/TCSS.2026.3726419.
 
 
 **2025:**
