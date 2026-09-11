@@ -24,7 +24,6 @@
 
 [1] **M. Kang**, D. Chen\*, Z. Pu, J. Gao, W. Yu\*. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
-[2] **M. Kang**. "Socially intelligent system: From social computing to social intelligence." 2026. [Online] Available at: [<u>sis.pdf</u>](sis.pdf)
 
 
 ### Regular Paper
