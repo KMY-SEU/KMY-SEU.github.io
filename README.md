@@ -19,17 +19,25 @@
 
 ## Selected Publications 
 
-**2026:**
+
+### Review & Perspective
 
 [1] **M. Kang**, D. Chen\*, Z. Pu, J. Gao, W. Yu\*. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
-[2] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *ACL Findings*, 2026, accepted. [Online] Available at: [https://openreview.net/forum?id=qdt7AQ6YBP](https://openreview.net/forum?id=qdt7AQ6YBP).
+[2] **M. Kang**. "Socially intelligent system: From social computing to social intelligence." 2026. [Online] Available at: [<u>sis.pdf</u>](sis.pdf)
 
-[3] **M. Kang**, J. Gao, W. Yu, L. Lü\*. "ASIND: Alternating sparse identification for predicting network dynamics without knowledge." in *IFAC World Congress*, 2026, accepted. [Online] Available at: [https://arxiv.org/abs/2605.21220](https://arxiv.org/abs/2605.21220).
 
-[4] S. Jiang, **M. Kang**, X. Xu\*, J. Xiao, L. Lü\*. "A multi-scale evolutionary framework for fuzzy hypergraph community detection." *IEEE Transactions on Fuzzy Systems*, 2026. [Online] Available at: [https://ieeexplore.ieee.org/document/11576602](https://ieeexplore.ieee.org/document/11576602).
+### Regular Paper
 
-[5] W. Shi, **M. Kang**\*, Y. Zhou, L. Lü\*. "An LLM-driven multi-agent social simulation model for disinformation propagation dynamics." *IEEE Transactions on Computational Social Systems*, 2026, accepted, DOI: 10.1109/TCSS.2026.3726419.
+**2026:**
+
+[1] N. Chen, **M. Kang**\*, J. Li, L. Lü\*. "An LLM-embedding semantic adaptation network for post-level semantic drift evaluation." in *ACL Findings*, 2026, accepted. [Online] Available at: [https://openreview.net/forum?id=qdt7AQ6YBP](https://openreview.net/forum?id=qdt7AQ6YBP).
+
+[2] **M. Kang**, J. Gao, W. Yu, L. Lü\*. "ASIND: Alternating sparse identification for predicting network dynamics without knowledge." in *IFAC World Congress*, 2026, accepted. [Online] Available at: [https://arxiv.org/abs/2605.21220](https://arxiv.org/abs/2605.21220).
+
+[3] S. Jiang, **M. Kang**, X. Xu\*, J. Xiao, L. Lü\*. "A multi-scale evolutionary framework for fuzzy hypergraph community detection." *IEEE Transactions on Fuzzy Systems*, 2026. [Online] Available at: [https://ieeexplore.ieee.org/document/11576602](https://ieeexplore.ieee.org/document/11576602).
+
+[4] W. Shi, **M. Kang**\*, Y. Zhou, L. Lü\*. "An LLM-driven multiagent social simulation model for disinformation propagation dynamics." *IEEE Transactions on Computational Social Systems*, 2026, [Online] Available at: [https://ieeexplore.ieee.org/document/11672668](https://ieeexplore.ieee.org/document/11672668).
 
 
 **2025:**
