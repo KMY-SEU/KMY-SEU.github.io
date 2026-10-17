@@ -24,7 +24,7 @@
 
 [1] **M. Kang**, D. Chen\*, Z. Pu, J. Gao, W. Yu\*. "Spatio-temporal graphical counterfactuals: An overview." *SCIENCE CHINA Information Sciences*, vol. 69, no. 4, p. 141201, 2026.
 
-[2] **M. Kang**. "Socially intelligent system: From social computing to social intelligence", 2026. [pdf](sis.pdf)
+[2] **M. Kang**. "Socially intelligent system: From social computing to social intelligence", 2026. [<u>pdf</u>](sis.pdf)
 
 
 ### Regular Paper
@@ -39,7 +39,7 @@
 
 [4] W. Shi, **M. Kang**\*, Y. Zhou, L. Lü\*. "An LLM-driven multiagent social simulation model for disinformation propagation dynamics." *IEEE Transactions on Computational Social Systems*, 2026, [Online] Available at: [https://ieeexplore.ieee.org/document/11672668](https://ieeexplore.ieee.org/document/11672668).
 
-[5] N. Chen, **M. Kang**\*, S. Xu, L. Lü\*. "EIGNN: An edge importance-guided GNN for redundant edge analysis in homogeneous networks." *IEEE Transactions on Big Data*, 2026, Accepted.
+[5] N. Chen, **M. Kang**\*, S. Xu, L. Lü\*. "EIGNN: An edge importance-guided GNN for redundant edge analysis in homogeneous networks." *IEEE Transactions on Big Data*, 2026, [Online] Available at: [https://ieeexplore.ieee.org/abstract/document/11714310](https://ieeexplore.ieee.org/abstract/document/11714310).
 
 
 **2025:**
